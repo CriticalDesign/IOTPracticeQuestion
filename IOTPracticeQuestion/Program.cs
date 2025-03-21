@@ -15,6 +15,7 @@ namespace IOTPracticeQuestion
 
             Console.WriteLine("Sum: " + sum);
             Console.WriteLine("Max: " + max);
+            Console.WriteLine("Program complete.")
 
         }
 
